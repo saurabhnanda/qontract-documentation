@@ -7,7 +7,7 @@ nav_order: 2
 
 ## Http support
 
-Qontract describes the interaction between to systems over HTTP.
+Qontract describes the interaction between two systems over HTTP.
 
 It can describe the HTTP requests and responses, and within them:
 * Methods (GET, POST, PUT, DELETE)
